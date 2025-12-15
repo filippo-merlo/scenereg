@@ -12,7 +12,7 @@
 # Load modules if needed
 # Initialize Conda
 source ~/.bashrc  # Important for accessing conda
-conda activate vlms_eval
+conda activate eval
 
 # Your command
 python evaluate.py --model_name 'microsoft/kosmos-2-patch14-224' --device cuda

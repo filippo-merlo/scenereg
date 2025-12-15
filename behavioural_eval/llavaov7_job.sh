@@ -12,7 +12,7 @@
 # Load modules if needed
 # Initialize Conda
 source ~/.bashrc  # Important for accessing conda
-conda activate vlms_eval
+conda activate eval
 
 # Your command
 python evaluate.py --model_name 'llava-hf/llava-onevision-qwen2-7b-ov-hf' --device cuda
