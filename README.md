@@ -34,4 +34,8 @@ COOCO enables novel investigations into:
 
 > 🤗 **Data**: [Hugging Face Dataset](https://huggingface.co/datasets/fmerlo/COOCO)
 
-> 
+> **Data**: [ZENODO](https://zenodo.org/records/17157850)
+
+
+## ⚖️ EVALUATION
+
